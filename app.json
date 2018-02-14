@@ -1,0 +1,9 @@
+{
+	"name": "Lynda Clone",
+	"description": "This app does one little thing, and does it well.",
+	"keywords": [
+	    "productivity",
+	    "lynda",
+	    "clone"],
+	"image": "heroku/php"
+}

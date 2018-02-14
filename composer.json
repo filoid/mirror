@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": "^7.0.0",
+    "ext-gd": "*",
+    "ext-mbstring": "*",
+    "ext-curl": "*",
+    "ext-memcached": "*"
+  }
+}
